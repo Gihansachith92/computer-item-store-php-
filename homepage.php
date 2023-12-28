@@ -52,7 +52,7 @@
 
         /* Right Section - 80% */
         .right-section {
-            background-color: #f8f9fa;
+            background-color: aqua;
             padding: 20px;
         }
 
@@ -66,7 +66,8 @@
         /* Three Cards Per Row in Right Section */
         .right-card {
             background-color: #ffffff;
-            margin-bottom: 20px;
+            margin: 5px;
+            margin-left: 100px;
             padding: 20px;
         }
 
